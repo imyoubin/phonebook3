@@ -20,5 +20,3 @@ create database phonebook_db
 
 -- database 조회
 show databases;
-
-
